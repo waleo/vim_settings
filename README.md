@@ -1,1 +1,1 @@
-# vim_settings
+Wale's vim settings

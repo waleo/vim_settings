@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/wale/repo/wale-svelte/mdn-svelte-tutorial/02-starting-our-todo-app'
+let g:netrw_dirhist_6='/home/wale/repo/supercat_server/app/models/importer/taxonomy_importer'
+let g:netrw_dirhist_5='/home/wale/repo/supercat_server/app/javascript/controllers'
+let g:netrw_dirhist_4='/home/wale/repo/supercat_server/test/services/address_verification'
+let g:netrw_dirhist_3='/home/wale/repo/experimental_supercat/app/views/custom_fields'
+let g:netrw_dirhist_2='/home/wale/repo/experimental_supercat/app/javascript'
+let g:netrw_dirhist_1='/home/wale/repo/supercat_server/app/views/ecat_order_process'
+let g:netrw_dirhist_0='/home/wale/repo/supercat_server/app/views/orders'
+let g:netrw_dirhist_9='/home/wale/repo/supercat_server/app/views/ecat_order_process'
+let g:netrw_dirhist_8='/home/wale/repo/supercat_server/app/services/orders'
