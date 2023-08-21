@@ -28,8 +28,10 @@ call plug#end()
 " Douglas Black
 " Colors {{{
 syntax enable           " enable syntax processing
-set background=dark
-colorscheme catppuccin
+" set background=dark
+" colorscheme catppuccin
+set background=light
+colorscheme PaperColor
 " }}}
 " Misc {{{
 set ttyfast                     " faster redraw
@@ -77,6 +79,10 @@ set tags=./tags,tags
 set laststatus=2
 "no auto insert
 set noai
+" Map the leader key to a comma.
+let mapleader = ','
+" Prettier settings
+command! -nargs=0 Prettier :CocCommand prettier.forceFormatDocument
 
 
 " ---------------------------------------------------------------
