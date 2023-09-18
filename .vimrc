@@ -19,6 +19,8 @@ Plug 'NLKNguyen/papercolor-theme'
 
 " Autocompletion Engine & Language server
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" html auto generation
+Plug 'mattn/emmet-vim'
 
 " end plugin section
 call plug#end()
@@ -80,7 +82,7 @@ set laststatus=2
 "no auto insert
 set noai
 " Map the leader key to a comma.
-let mapleader = ','
+" let mapleader = ','
 " Prettier settings
 command! -nargs=0 Prettier :CocCommand prettier.forceFormatDocument
 
