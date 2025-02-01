@@ -32,8 +32,8 @@ call plug#end()
 syntax enable           " enable syntax processing
 " set background=dark
 " colorscheme catppuccin
-set background=light
-colorscheme PaperColor
+set background=dark
+colorscheme catppuccin
 " }}}
 " Misc {{{
 set ttyfast                     " faster redraw
